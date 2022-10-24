@@ -1,5 +1,5 @@
 <h1 align="center">Console.log("Hello, World 👋") I'M EDUAR 👨‍💻</h1>
-<h3 align="center">ESTUDIANTE DE INGENIERÍA EN COMPUTACIÓN APASIONADO A LA TECNOLOGÍA & CON GANAS DE APRENDER ALGO NUEVO CADA DÍA. 'SUEÑA, CRECE, INTENTA, MUERE' "VIVE HARDCORE"</h3>
+<h3 align="center">ESTUDIANTE DE INGENIERÍA EN COMPUTACIÓN APASIONADO POR LA TECNOLOGÍA & CON GANAS DE APRENDER ALGO NUEVO CADA DÍA. 'SUEÑA, CRECE, INTENTA, MUERE' "VIVE HARDCORE"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eduarx24&label=Profile%20views&color=0e75b6&style=flat" alt="eduarx24" /> </p>
 
